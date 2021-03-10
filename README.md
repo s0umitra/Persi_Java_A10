@@ -5,7 +5,7 @@
 
 ![](https://github.com/s0umitra/Persi_Java_A10/blob/main/.readme/pStructure.jpg)
 
-- Folder "db" contains Movies.txt which is used to populate the list
+- Folder "db" contains Contact.txt (for List) and DbPopulate.txt (for Database)
 - Folder "src" contains the source codes
 - src.RunSystem -> main program
 - src.Libraries -> contains the functions used by the main program
